@@ -76,7 +76,7 @@ services:
 
 ### 4. 许可证安装
 
- * 部署成功后查看日志，找到机器指纹发给 [开发者](https://t.me/luluprivatechatbot) 生成许可证文件 `license.key`
+ * 部署成功后查看日志，找到 `机器指纹` 发给 [开发者](https://t.me/luluprivatechatbot) 生成许可证文件 `license.key`
  * 将生成的 `license.key` 放入容器 `/app/data/` 目录后重启
 
 ## 赞赏
